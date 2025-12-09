@@ -61,11 +61,15 @@ The dashboard then provides **maintenance recommendations**, plus estimates of:
 1. **Create and activate a virtual environment**
 
 2. **Install dependencies**
-
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
+Run the Streamlit app:
 
+bash
+Copy code
 streamlit run app.py
+Open the browser (if it doesn’t open automatically) at:
 
+arduino
+Copy code
 http://localhost:8501
-
