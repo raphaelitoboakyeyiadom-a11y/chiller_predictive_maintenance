@@ -118,6 +118,10 @@ The dashboard then provides **maintenance recommendations**, plus estimates of:
   - Feature importance (which sensors influence the decision most)
 
 ---
+👨‍🔧 Author
+
+Raphael Boakye-Yiadom
+Mechanical Engineering + AI/ML Engineering
 
 ## 🚀 How to Run
 
