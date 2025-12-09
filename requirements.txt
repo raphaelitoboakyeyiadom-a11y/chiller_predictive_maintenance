@@ -1,0 +1,11 @@
+Python
+
+Streamlit
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
